@@ -1,0 +1,1020 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.applicationCoordinator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 31,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 41,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 45,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/AppDelegate.swift",
+      "line": 49,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ApplicationCoordinator.swift",
+      "line": 16,
+      "symbol": "ApplicationCoordinator.reachabilityManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ApplicationCoordinator.swift",
+      "line": 21,
+      "symbol": "ApplicationCoordinator.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ConmmonViews/Empty-Cell/EmptyTableViewCell.swift",
+      "line": 14,
+      "symbol": "EmptyTableViewCell.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ConmmonViews/Empty-Cell/EmptyTableViewCell.swift",
+      "line": 15,
+      "symbol": "EmptyTableViewCell.nib",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 12,
+      "symbol": "appDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 13,
+      "symbol": "keychain",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 17,
+      "symbol": "Constants.apiCallTimeout",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 19,
+      "symbol": "Constants.minEnterCity",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 20,
+      "symbol": "Constants.maxEnterCity",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 22,
+      "symbol": "Constants.degree",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 23,
+      "symbol": "Constants.windSpeedUnits",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 28,
+      "symbol": "FormatDate.ddMMYYYY",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 29,
+      "symbol": "FormatDate.fullDateFormat",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 30,
+      "symbol": "FormatDate.fullDateFormatAPM",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Constants/Constants.swift",
+      "line": 35,
+      "symbol": "KeychainKeys.langKKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Helper/InAppNotificationsMessages/CustomMessage/CustomMessage.swift",
+      "line": 15,
+      "symbol": "CustomMessage.contentView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Helper/InAppNotificationsMessages/CustomMessage/CustomMessage.swift",
+      "line": 17,
+      "symbol": "CustomMessage.viewWrapper",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Helper/InAppNotificationsMessages/CustomMessage/CustomMessage.swift",
+      "line": 18,
+      "symbol": "CustomMessage.imageMessageIcon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Helper/InAppNotificationsMessages/CustomMessage/CustomMessage.swift",
+      "line": 19,
+      "symbol": "CustomMessage.labelBody",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Helper/JSON/JSON.swift",
+      "line": 11,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/ErrorResponse.swift",
+      "line": 13,
+      "symbol": "ErrorResponse.cod",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/ErrorResponse.swift",
+      "line": 14,
+      "symbol": "ErrorResponse.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 16,
+      "symbol": "WeatherForecastItemModel.init(item:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 20,
+      "symbol": "WeatherForecastItemModel.date",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 24,
+      "symbol": "WeatherForecastItemModel.time",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 28,
+      "symbol": "WeatherForecastItemModel.temperature",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 32,
+      "symbol": "WeatherForecastItemModel.minTemperature",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 36,
+      "symbol": "WeatherForecastItemModel.maxTemperature",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 40,
+      "symbol": "WeatherForecastItemModel.windSpeed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 44,
+      "symbol": "WeatherForecastItemModel.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastItemModel.swift",
+      "line": 49,
+      "symbol": "WeatherForecastItemModel.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 14,
+      "symbol": "WeatherForecastModel.Result",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 15,
+      "symbol": "WeatherForecastModel.Result.list",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 16,
+      "symbol": "WeatherForecastModel.Result.city",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 19,
+      "symbol": "WeatherForecastModel.Item",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 20,
+      "symbol": "WeatherForecastModel.Item.dt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 21,
+      "symbol": "WeatherForecastModel.Item.main",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 22,
+      "symbol": "WeatherForecastModel.Item.weather",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 23,
+      "symbol": "WeatherForecastModel.Item.dt_txt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 24,
+      "symbol": "WeatherForecastModel.Item.wind",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 27,
+      "symbol": "WeatherForecastModel.City",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherForecastModel.swift",
+      "line": 28,
+      "symbol": "WeatherForecastModel.City.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 14,
+      "symbol": "WeatherModel.Result",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 15,
+      "symbol": "WeatherModel.Result.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 16,
+      "symbol": "WeatherModel.Result.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 17,
+      "symbol": "WeatherModel.Result.weather",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 18,
+      "symbol": "WeatherModel.Result.main",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 19,
+      "symbol": "WeatherModel.Result.wind",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 22,
+      "symbol": "WeatherModel.Weather",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 23,
+      "symbol": "WeatherModel.Weather.main",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 24,
+      "symbol": "WeatherModel.Weather.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 27,
+      "symbol": "WeatherModel.MainValue",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 28,
+      "symbol": "WeatherModel.MainValue.temp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 29,
+      "symbol": "WeatherModel.MainValue.temp_min",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 30,
+      "symbol": "WeatherModel.MainValue.temp_max",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 33,
+      "symbol": "WeatherModel.WindValue",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Models/WeatherModel.swift",
+      "line": 34,
+      "symbol": "WeatherModel.WindValue.speed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 14,
+      "symbol": "LocalizableString.noInternetKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 15,
+      "symbol": "LocalizableString.noResultKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 16,
+      "symbol": "LocalizableString.loadingKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 18,
+      "symbol": "LocalizableString.noLocationAccessKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 19,
+      "symbol": "LocalizableString.accessLocationKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 20,
+      "symbol": "LocalizableString.accessLocationMessageKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 21,
+      "symbol": "LocalizableString.allowKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 23,
+      "symbol": "LocalizableString.cancelKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 24,
+      "symbol": "LocalizableString.okKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 26,
+      "symbol": "LocalizableString.weatherKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 27,
+      "symbol": "LocalizableString.step1Key",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 28,
+      "symbol": "LocalizableString.step2Key",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 30,
+      "symbol": "LocalizableString.searchPlaceholderKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 32,
+      "symbol": "LocalizableString.minTempKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 33,
+      "symbol": "LocalizableString.maxTempKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 34,
+      "symbol": "LocalizableString.windKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 36,
+      "symbol": "LocalizableString.citiesMessageKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Resources/LocalizableString.swift",
+      "line": 37,
+      "symbol": "LocalizableString.notifyKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Services/CoreNetworking.swift",
+      "line": 16,
+      "symbol": "CoreNetworking.HTTPMethod.GET",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Services/CoreNetworking.swift",
+      "line": 17,
+      "symbol": "CoreNetworking.HTTPMethod.POST",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Services/CoreNetworking.swift",
+      "line": 18,
+      "symbol": "CoreNetworking.HTTPMethod.PUT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/Services/CoreNetworking.swift",
+      "line": 19,
+      "symbol": "CoreNetworking.HTTPMethod.DELETE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/BaseViewController.swift",
+      "line": 14,
+      "symbol": "BaseViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/BaseViewController.swift",
+      "line": 21,
+      "symbol": "BaseViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/BaseViewController.swift",
+      "line": 25,
+      "symbol": "BaseViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/BaseViewController.swift",
+      "line": 29,
+      "symbol": "BaseViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/BaseViewController.swift",
+      "line": 35,
+      "symbol": "BaseViewController.viewDidDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 24,
+      "symbol": "MainViewController.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 25,
+      "symbol": "MainViewController.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 27,
+      "symbol": "MainViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 31,
+      "symbol": "MainViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 42,
+      "symbol": "MainViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 46,
+      "symbol": "MainViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 50,
+      "symbol": "MainViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/MainViewController.swift",
+      "line": 65,
+      "symbol": "MainViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/Menu-Cell/TableViewCell.swift",
+      "line": 11,
+      "symbol": "TableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/Menu-Cell/TableViewCell.swift",
+      "line": 13,
+      "symbol": "TableViewCell.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Main-Screen/Menu-Cell/TableViewCell.swift",
+      "line": 14,
+      "symbol": "TableViewCell.nib",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/Weather-Cell/WeatherTableViewCell.swift",
+      "line": 14,
+      "symbol": "WeatherTableViewCell.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/Weather-Cell/WeatherTableViewCell.swift",
+      "line": 15,
+      "symbol": "WeatherTableViewCell.nib",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 44,
+      "symbol": "WeatherViewController.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 45,
+      "symbol": "WeatherViewController.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 47,
+      "symbol": "WeatherViewController.errorMessage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 49,
+      "symbol": "WeatherViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 53,
+      "symbol": "WeatherViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 103,
+      "symbol": "WeatherViewController.searchForCityName()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 131,
+      "symbol": "WeatherViewController.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 169,
+      "symbol": "WeatherViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 176,
+      "symbol": "WeatherViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 180,
+      "symbol": "WeatherViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewController.swift",
+      "line": 215,
+      "symbol": "WeatherViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewModel.swift",
+      "line": 17,
+      "symbol": "WeatherViewModel.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewModel.swift",
+      "line": 19,
+      "symbol": "WeatherViewModel.response",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewModel.swift",
+      "line": 20,
+      "symbol": "WeatherViewModel.weatherArray",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/Weather-Screen/WeatherViewModel.swift",
+      "line": 22,
+      "symbol": "WeatherViewModel.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/City-Cell/CityTableViewCell.swift",
+      "line": 14,
+      "symbol": "CityTableViewCell.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/City-Cell/CityTableViewCell.swift",
+      "line": 15,
+      "symbol": "CityTableViewCell.nib",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecast-Cell/WeatherForecastTableViewCell.swift",
+      "line": 14,
+      "symbol": "WeatherForecastTableViewCell.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecast-Cell/WeatherForecastTableViewCell.swift",
+      "line": 15,
+      "symbol": "WeatherForecastTableViewCell.nib",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecast-Cell/WeatherForecastTableViewCell.swift",
+      "line": 35,
+      "symbol": "WeatherForecastTableViewCell.descriptionLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 26,
+      "symbol": "WeatherForecastViewController.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 27,
+      "symbol": "WeatherForecastViewController.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 29,
+      "symbol": "WeatherForecastViewController.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 31,
+      "symbol": "WeatherForecastViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 35,
+      "symbol": "WeatherForecastViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 84,
+      "symbol": "WeatherForecastViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 91,
+      "symbol": "WeatherForecastViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 99,
+      "symbol": "WeatherForecastViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 106,
+      "symbol": "WeatherForecastViewController.tableView(_:viewForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 125,
+      "symbol": "WeatherForecastViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 132,
+      "symbol": "WeatherForecastViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewController.swift",
+      "line": 168,
+      "symbol": "WeatherForecastViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewModel.swift",
+      "line": 19,
+      "symbol": "WeatherForecastViewModel.disposeBag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewModel.swift",
+      "line": 20,
+      "symbol": "WeatherForecastViewModel.responseCity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewModel.swift",
+      "line": 22,
+      "symbol": "WeatherForecastViewModel.responseList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewModel.swift",
+      "line": 23,
+      "symbol": "WeatherForecastViewModel.weatherList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewModel.swift",
+      "line": 24,
+      "symbol": "WeatherForecastViewModel.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewModel.swift",
+      "line": 26,
+      "symbol": "WeatherForecastViewModel.isEnterLocation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/eurisko/Desktop/weather/weather/ViewControllers/WeatherForecast-Screen/WeatherForecastViewModel.swift",
+      "line": 28,
+      "symbol": "WeatherForecastViewModel.init(viewController:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/eurisko/Desktop/weather"
+}

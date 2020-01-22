@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  weather
+
+  Created by Marianne Katramiz on 1/18/20.
+  Copyright © 2020 Marianne Katramiz. All rights reserved.
+*/
+
+"no_internet"="No internet connection";
+"no_results"="No results";
+"loading_weather"="Loading weather...";
+
+"weather"="Weather";
+"step1"="Search for cities";
+"step2"="Current City";
+
+"search_placeholder"="e.g. London, Dubai";
+
+"min_temperature"="Min Temperature:";
+"max_temperature"="Max Temperature:";
+"wind_speed"="Wind Speed:";
+
+"no_location_access"="No location access";
+"access_location"="Access your location";
+"access_location_message"="'Weather' requires access to your location so you can check the weather forecast for your current city.";
+"allow"="Allow";
+
+"Cancel"="Cancel";
+"Ok"="Ok";
+
+"cities_messsage"="You should enter minimum 3 cities";
+"notify"="Notify";

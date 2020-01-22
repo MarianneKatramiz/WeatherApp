@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.4)
+  - KeychainSwift (19.0.0)
+  - Localize-Swift (3.1.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SwiftLint (0.38.2)
+  - SwiftLocation (4.2.0)
+  - SwiftMessages (7.0.1):
+    - SwiftMessages/App (= 7.0.1)
+  - SwiftMessages/App (7.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - IQKeyboardManagerSwift (~> 6.5.4)
+  - KeychainSwift (~> 19.0.0)
+  - Localize-Swift (~> 3.1.0)
+  - RxCocoa (~> 5.0.1)
+  - RxSwift (~> 5.0.1)
+  - SwiftLint (~> 0.38.2)
+  - SwiftLocation (~> 4.0)
+  - SwiftMessages (~> 7.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - KeychainSwift
+    - Localize-Swift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftLint
+    - SwiftLocation
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SwiftLint: 8f5d2f903e1c9bcbc832fd16771e80a263ac6cbb
+  SwiftLocation: 609ac8859f2c5d48a6cadd2a58c63b1dae02dc25
+  SwiftMessages: b577dc7043be8b299857ab35bb663dbff6483bd0
+
+PODFILE CHECKSUM: ea56312d125c51ed755ef7b135cd786409897302
+
+COCOAPODS: 1.8.4
